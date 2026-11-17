@@ -1,0 +1,14 @@
+# Python virtual environments
+venv/
+.venv/
+__pycache__/
+
+# Auto-generated FEA solver & mesh files
+*.inp
+*.dat
+*.frd
+*.cvg
+*.sta
+*.12d
+*.nam
+spooles.out
