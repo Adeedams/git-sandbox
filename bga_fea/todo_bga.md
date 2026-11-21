@@ -14,3 +14,4 @@
 - [ ] Add temperature-dependent FR4 properties above Glass Transition Temperature (Tg)
 - [ ] Export a multi-parameter DOE sweep to CSV
 - [ ] Train a PyTorch AI surrogate model on the CSV dataset for instant warpage prediction
+- [ ] Start Production FEA Milestone #1 (Multi-Step Reflow & Underfill Cure Stress-Free Temperature using *MODEL CHANGE so the solder solidifies at 250°C while underfill locks in stress-free at its 150°C cure temperature)?Or explore Latin Hypercube Sampling (LHS) to generate a denser 60-run training dataset that eliminates that outer-corner boundary droop?
